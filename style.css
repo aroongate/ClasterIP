@@ -1,0 +1,39 @@
+[data-testid = "stAppViewContainer"]{
+  background: linear-gradient(107.56deg, #883928ed 0%, #83559899 23.96%, #697dff6e 50.52%, #83559899 73.44%, #883928ed 100%, #883928ed 100%), #000000;
+}
+[data-testid="stDataFrameResizable"]{
+  width: 100%;
+  max-width: max-content;
+}
+[data-testid="data-grid-canvas"]{
+  width: 100%;
+}
+.css-13iuwcf{
+ background-color: #ff6421; 
+ border: 0;
+ border-radius: 15px;
+}
+.marks{
+  border-radius: 15px;
+}
+.glideDataEditor{
+  border-radius: 15px;
+} 
+.row-widget{
+  display: flex;
+  align-items: center;
+  margin: 0;
+  flex-direction: column;
+}
+.css-1hynsf2{
+  text-align: center;
+}
+.s1jz82f8{
+  width: 500px;
+}
+.dvn-underlay{
+  width: 100%;
+}
+.css-10trblm{
+  color: #FFFFFF;
+}
